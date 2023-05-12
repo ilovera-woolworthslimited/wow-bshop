@@ -36,7 +36,7 @@
   "dependencies": {
     "@astrojs/webapi": "^2.1.0",
     "@netlify/functions": "^1.0.0",
-    "esbuild": "^0.15.18"
+    "esbuild": "^0.17.17"
   },
   "peerDependencies": {
     "astro": "workspace:^2.3.1"
