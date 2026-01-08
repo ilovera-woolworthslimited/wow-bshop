@@ -28,7 +28,7 @@
     "astro-component"
   ],
   "dependencies": {
-    "prismjs": "^1.28.0"
+    "prismjs": "^1.30.0"
   },
   "devDependencies": {
     "astro-scripts": "workspace:*",
