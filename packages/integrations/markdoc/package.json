@@ -38,7 +38,7 @@
     "esbuild": "^0.17.12",
     "gray-matter": "^4.0.3",
     "kleur": "^4.1.5",
-    "zod": "^3.17.3"
+    "zod": "^3.22.3"
   },
   "peerDependencies": {
     "astro": "workspace:^2.3.1"
