@@ -15,7 +15,7 @@
     "globby": "^12.2.0",
     "kleur": "^4.1.4",
     "svelte": "^3.48.0",
-    "tar": "^6.1.11"
+    "tar": "^6.2.1"
   },
   "devDependencies": {
     "esbuild-plugin-copy": "^2.0.2",
