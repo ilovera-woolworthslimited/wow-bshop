@@ -128,7 +128,7 @@
     "debug": "^4.3.4",
     "deepmerge-ts": "^4.2.2",
     "devalue": "^4.2.0",
-    "diff": "^5.1.0",
+    "diff": "^5.2.2",
     "es-module-lexer": "^1.1.0",
     "estree-walker": "^3.0.1",
     "execa": "^6.1.0",
